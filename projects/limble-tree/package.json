@@ -7,6 +7,7 @@
       "rxjs": "^7.8.0"
    },
    "dependencies": {
+      "@limble/limble-tree": "file:",
       "tslib": "^2.3.0"
    }
 }
